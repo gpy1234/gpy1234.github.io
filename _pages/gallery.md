@@ -2,7 +2,7 @@
 layout: page
 permalink: /gallery/
 title: gallery
-description: Materials for courses you taught. Replace this text with your description.
+description: Different Photos
 nav: true
 nav_order: 5
 ---
