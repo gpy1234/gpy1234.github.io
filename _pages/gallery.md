@@ -37,3 +37,18 @@ nav_order: 5
     <p>Description 3</p>
   </div>
 </div>
+
+<div class="image-row">
+  <div>
+    <img src="../images/images (1).jpeg" alt="Description 1" />
+    <p>Description 1</p>
+  </div>
+  <div>
+    <img src="../images/download.jpeg" alt="Description 2" />
+    <p>Description 2</p>
+  </div>
+  <div>
+    <img src="../images/images (2).jpeg" alt="Description 3" />
+    <p>Description 3</p>
+  </div>
+</div>
